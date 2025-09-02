@@ -1,0 +1,180 @@
+#title{
+	margin-right: 5cm;
+	margin-top: -50px;
+	margin-bottom: -60px;
+	text-shadow: 8px 8px 15px #367588;
+	transition: font-size 0.5s ease;
+}
+
+
+body{
+	background-image: radial-gradient(#1a1b19,#232524,black,#367588);
+	background-color: #232524;
+	background-image: bg1.png;
+
+}
+
+#bgimage{
+	background-image: url(company.png);
+
+}
+
+#logo{
+	 text-align: left;
+	 
+}
+
+
+#hr{
+	background-color: #367588;
+}
+
+#home{
+	 text-align: right;
+	 font-size: 30px;
+	 padding-right: 15px;
+	 text-decoration:;
+	 text-transform:;
+	 line-height: ;
+}
+
+a{
+	transition: font-size 0.5s ease;
+}
+a:hover{
+	color: grey;
+	font-size: 40px;
+}
+
+.btn{
+	text-decoration: none;
+	color:  #367588;
+	font-family: sans-serif;
+	}
+
+
+h1{
+	font-family: "Georgia";
+	font-size: 60px;
+
+}
+
+#intro{
+	color: white;
+	font-size: 23px;
+	
+}
+
+#div_1{
+	padding-left: 12cm;
+	padding-right: 13cm;
+	padding-top: 3.8cm;
+
+
+	
+
+}
+
+#l1{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+#log{
+	margin-bottom: 1cm;
+	color: #367588;
+
+}
+
+#f1{
+	outline-width: 5px;
+	border-radius: 0px 2px 0px 2px;
+	outline-style: groove;
+	outline-offset: 1cm;
+	border: none;
+	margin-right: 10cm;
+	background-image: logo_rr.png;
+	color: #367588;
+	
+
+
+}
+
+.log{
+	font-size: 28px;
+	color:#367588;
+	outline-color: #367588;
+
+
+
+}
+
+#div_2{
+	border:medium;
+	background-color: #ADD8E6;
+
+}
+
+#slogan{
+	padding-right: px;
+	margin-right: 5px;
+	color: #367588;
+	width: 2px;
+}
+
+.logborder{
+	border: solid;
+	background-color: #232524;
+	font-size: 28px;
+	color:#367588;
+	outline-color: #367588;
+
+}
+
+#submit {
+  background-color: black;
+  border: solid;
+  color: #367588;
+  border-radius: 10px;
+  padding: 12px 20px;
+  text-align: center;
+  text-decoration: ;
+  display: inline-block;
+  font-size: 16px;
+
+}
+h2{
+	color: #367588;
+	font-size: 50px;
+}
+
+#boss{
+	text-align: center;
+}
+
+#address{
+	color: #367588;
+
+}
+
+#boss_t{
+	color: #367588;
+	font-size: 20px;
+
+}
+#reg{
+	font-size: 20px;
+	outline-color: #367588;
+	margin-bottom: 1cm;
+	color: #367588;
+	text-decoration: none;
+}
+
+#girl{
+	margin-left: 5cm;
+	text-align: center;
+}
+
+#message{
+	resize: none;
+}
